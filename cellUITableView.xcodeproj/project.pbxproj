@@ -13,6 +13,7 @@
 		7D81885E2642001A00397C34 /* cellUITableView.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7D81885C2642001A00397C34 /* cellUITableView.xcdatamodeld */; };
 		7D8188602642001C00397C34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D81885F2642001C00397C34 /* Assets.xcassets */; };
 		7D8188632642001C00397C34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D8188612642001C00397C34 /* LaunchScreen.storyboard */; };
+		7D81886B264204C300397C34 /* PersonajesTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D81886A264204C300397C34 /* PersonajesTVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7D81885F2642001C00397C34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D8188622642001C00397C34 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D8188642642001C00397C34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D81886A264204C300397C34 /* PersonajesTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonajesTVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				7D8188612642001C00397C34 /* LaunchScreen.storyboard */,
 				7D8188642642001C00397C34 /* Info.plist */,
 				7D81885C2642001A00397C34 /* cellUITableView.xcdatamodeld */,
+				7D81886A264204C300397C34 /* PersonajesTVC.swift */,
 			);
 			path = cellUITableView;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7D81885E2642001A00397C34 /* cellUITableView.xcdatamodeld in Sources */,
+				7D81886B264204C300397C34 /* PersonajesTVC.swift in Sources */,
 				7D8188582642001A00397C34 /* ViewController.swift in Sources */,
 				7D8188562642001A00397C34 /* AppDelegate.swift in Sources */,
 			);
